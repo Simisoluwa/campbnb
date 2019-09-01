@@ -10,3 +10,5 @@ You have to run 1)
 Then 2)
 ### npm run dev
 
+Please use npm run dev to view the project because json server can't be used in production mode, The full functionality of the app resides in the "npm run dev"
+
