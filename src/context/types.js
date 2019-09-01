@@ -1,0 +1,1 @@
+export const SEARCH_CAMPS = 'SEARCH_CAMPS';
